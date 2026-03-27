@@ -1,6 +1,8 @@
 <h1 align="center">SmartBus: Predicción del tiempo de espera en transporte público </h1>
 
-![Texto alternativo](smartbus.jpg)
+<p align="center">
+  <img src=smartbus.jpg>
+</p>
 
 ## Naturaleza del proyecto
 
