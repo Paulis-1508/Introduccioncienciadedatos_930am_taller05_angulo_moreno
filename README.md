@@ -1,5 +1,7 @@
 <h1 align="center">SmartBus: Predicción del tiempo de espera en transporte público </h1>
 
+![Texto alternativo](LogoSmartBus.png)
+
 ## Naturaleza del proyecto
 
 SmartBus es un proyecto de ciencia de datos liderado y ejecutado por un científico de datos con el objetivo de desarrollar una solución predictiva que permita estimar el tiempo de espera de los buses en diferentes rutas del sistema de transporte público urbano.
