@@ -33,6 +33,11 @@ El proyecto siguió el ciclo de vida de ciencia de datos:
 6. Despliegue
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=50&pause=50&color=FF6B6B&center=false&vCenter=false&width=2000&height=200&lines=Producto+desarrollado)](https://git.io/typing-svg)
+
+Se implementó una aplicación que permite:
+- Consultar el tiempo estimado de llegada del bus
+- Visualizar predicciones en tiempo real
+- Identificar horarios de mayor congestión
 ## Funcionamiento de la aplicación
 
 La aplicación obtiene la ubicación en tiempo real del bus correspondiente a la ruta seleccionada y estima su tiempo de llegada a la estación.
